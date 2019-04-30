@@ -1,0 +1,18 @@
+.pre-code-max {
+  width: 140% !important;
+  /* margin-block-start: -20% !important; */
+  margin-inline-start: -20% !important;
+  margin-left: 0em !important;
+  box-shadow: none;
+  position: absolute !important;
+  left: -18%;
+}
+
+.hljs { white-space: pre-wrap; }
+
+img[alt="Summit Logo"] {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  width: 150px;
+}
