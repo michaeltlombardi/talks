@@ -1,0 +1,6 @@
+img[alt="Summit Logo"] {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  width: 120px;
+}
